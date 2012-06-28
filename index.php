@@ -1,9 +1,3 @@
-twitter-seach
-=============
-
-Twitter search api is used simply. 
-
-usage
 <?php
 
 require_once 'twitterSearch.php';
